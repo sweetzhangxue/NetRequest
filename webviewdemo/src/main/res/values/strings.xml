@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+    <string name="net_error">网络连接异常，请重试</string>
+</resources>
